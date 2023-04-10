@@ -7,10 +7,10 @@ View site live [here](https://snholmes.github.io/LearningGithub/).
 
 **Quoting Code Test**
 
-`
+```
 Console.WriteLine("Good morning, World!");
 
 Console.WriteLine("Good afternoon, World!");
 
 Console.WriteLine("Good evening, World!");
-`
+```
