@@ -3,7 +3,7 @@ This is a practice repository created while following along with the LinkedIn Le
 
 Here is a helpful shortcut to Github's [markup syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-View site live [here](https://snholmes.github.io/LearningGithub/).
+*View site live* [here](https://snholmes.github.io/LearningGithub/).
 
 **Quoting Code Test**
 
